@@ -12,5 +12,6 @@ site:
   template: book-theme
   options:
     numbered: true
+    path: /newbook
   #   favicon: favicon.ico
   #   logo: site_logo.png
